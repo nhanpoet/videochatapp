@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/124488662/220539925-4651cd1b-0ee3-422b-91e4-4e8e3c4d6607.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -8,7 +11,11 @@ In the project directory, you can run:
 
 ### `npm start`
 
+
+
 Runs the app in the development mode.\
+
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -68,3 +75,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
